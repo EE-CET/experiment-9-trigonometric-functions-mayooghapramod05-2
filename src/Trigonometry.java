@@ -1,4 +1,5 @@
-import java.util.Scanner;
+
+  import java.util.Scanner;
 
 public class Trigonometry {
 
@@ -22,4 +23,3 @@ public class Trigonometry {
 }
 
 
-  
